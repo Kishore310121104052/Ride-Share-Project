@@ -1,2 +1,2 @@
 # Ride-Share-Project
-RideShareProject: A Java-based RideShare application enabling riders and drivers to manage and book rides. Features include user authentication, ride posting, search, and requests. Data is persisted using file I/O.rsdgsdhz
+RideShareProject: The RideShare Application is a Python-based console application designed to facilitate ride-sharing by connecting riders and drivers. This application allows users to perform essential ride-sharing functions including posting rides, searching for available rides, requesting rides, and managing ride requests. It is structured to handle three distinct user roles: Riders, Drivers, and Administrators, each with specific functionalities tailored to their needs.
